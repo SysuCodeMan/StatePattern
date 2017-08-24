@@ -21,7 +21,7 @@ public class SoldState implements State {
     }
 
     @Override
-    public void trunCrank() {
+    public void turnCrank() {
         System.out.println("Turning twice doesn't get you another gumball");
     }
 
